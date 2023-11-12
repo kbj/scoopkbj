@@ -1,7 +1,7 @@
 {
     "homepage": "http://www.eastmoney.com/",
     "description": "东方财富通是东方财富网（300059）基于自身的平台优势最新研发的一款免费炒股软件",
-    "version": "9.3.1",
+    "version": "10.8.0",
     "url": "https://webcdn.m.qq.com/spcmgr/download/dfcft8_tencent_10.8.0.exe#/dl.7z",
     "hash": "b7af10c87e1c1bbcf8d461f7f7586f8a22f9fa901fda92cf9d545cc3293c2bdc",
     "pre_install": [
